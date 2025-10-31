@@ -36,7 +36,7 @@ The dataset used for this project contains user comments labeled with sentiment 
 | Programming Language | Python 🐍 |
 | Data Handling | pandas, numpy |
 | NLP | nltk, scikit-learn |
-| Model | Logistic Regression / SVM / Naive Bayes |
+| Model | Logistic Regression / SVM / Naive Bayes / KNN / Decision Tree|
 | Visualization | matplotlib, seaborn |
 | Dataset Source | Kaggle |
 
