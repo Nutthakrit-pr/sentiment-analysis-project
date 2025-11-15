@@ -1,16 +1,16 @@
-# 🧠 Sentiment Analysis for Comments of X Application
+# Sentiment Analysis for Comments of X Application
 
 This project analyzes user comments from the **X Application** to determine whether they express **positive**, **negative**, or **neutral** sentiments.  
 It leverages **Natural Language Processing (NLP)** and **Machine Learning** techniques to extract insights from textual feedback.
 
 ---
 
-## 🚀 Project Overview
+## Project Overview
 
 The goal of this project is to help understand how users feel about the application by analyzing their written comments.  
 This information can be used to improve product quality, user satisfaction, and customer support.
 
-### 🔍 Key Features
+### Key Features
 - Automatic text preprocessing (tokenization, stopword removal, lemmatization)
 - Sentiment classification using machine learning models
 - Data visualization of sentiment distribution
@@ -18,7 +18,7 @@ This information can be used to improve product quality, user satisfaction, and 
 
 ---
 
-## 🧩 Dataset
+## Dataset
 
 The dataset used for this project contains user comments labeled with sentiment categories.
 
@@ -29,11 +29,11 @@ The dataset used for this project contains user comments labeled with sentiment 
 
 ---
 
-## ⚙️ Technologies Used
+## Technologies Used
 
 | Category | Tools / Libraries |
 |-----------|-------------------|
-| Programming Language | Python 🐍 |
+| Programming Language | Python  |
 | Data Handling | pandas, numpy |
 | NLP | nltk, scikit-learn |
 | Model | Logistic Regression / SVM / Naive Bayes / KNN / Decision Tree|
